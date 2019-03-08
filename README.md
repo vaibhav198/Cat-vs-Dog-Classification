@@ -1,4 +1,4 @@
-# Cat-vs-Dog-Classifier
+# Cat-vs-Dog-Classification
 Building a convolutional neural network model to classify images of cats and dogs.
 
 # DATASET
