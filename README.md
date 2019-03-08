@@ -1,7 +1,7 @@
 # Cat-vs-Dog-Classifier
 Building a convolutional neural network model to classify images of cats and dogs.
 
-#Dataset
+# DATASET
 
 Dataset is taken from kaggle Cats vs Dogs competetion.
 
